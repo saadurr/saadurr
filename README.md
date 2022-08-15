@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadurr (Saad Ur Rehman)
-- 👀 I’m interested in working on C++ and C#.
-- 🌱 I’m currently learning C++ and Fortran.
+- 👀 I’m interested in working on C# and C++.
+- 🌱 I’m currently improving my C#, .NET stack and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: saad.ur.rehman77@gmail.com / linkedin: saadur-rehman
 
